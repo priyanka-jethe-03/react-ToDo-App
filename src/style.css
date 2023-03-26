@@ -1,0 +1,46 @@
+.Todo{
+    /* text-align: center; */
+    margin-left: 300px ;
+    margin-top: 50px;
+    border: 5px solid black;
+    width:900px;
+    height:600px;
+    background-color: darksalmon;
+    border-radius: 95px;
+}
+h1{
+    text-align: center;
+}
+.form-box input{
+    width:450px;
+    height:50px;
+    border-radius: 15px;
+    font-size: 25px;
+    margin-left: 65px;
+    
+}
+.form-box button{
+    margin-left:50px;
+    height:50px;
+    width: 100px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 30px;
+    background-color: rgb(68, 242, 68);
+
+}
+.delete{
+    margin-left:620px;
+    height:50px;
+    width: 100px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 30px;
+    background-color: rgb(68, 242, 68);
+   
+}
+li{
+    font-size: 35px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    margin-left:80px;
+
+}
